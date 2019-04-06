@@ -1,0 +1,12 @@
+MOV $5 $-25
+MOV $-25 $-30
+MOV $7 $-20
+SPL $-25 
+JMP $2 
+DAT $-6 
+SPL @-1 
+SUB $45 $-2
+JMP $-8 
+DAT $259 
+DAT $14 
+DAT $2 

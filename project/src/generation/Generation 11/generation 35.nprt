@@ -1,0 +1,31 @@
+JMP $22 
+JMP $7 
+DAT $0 
+DAT $0 
+DAT $0 
+DAT $0 
+DAT $0 
+DAT $0 
+JMZ $0 @21
+CMP $21 @20
+JMP $3 
+MOV #8166 $18
+JMP $-4 
+ADD #6 $16
+MOV $14 @15
+MOV $13 @14
+MOV $12 @13
+MOV $11 @12
+MOV $10 @11
+MOV $9 @10
+MOV $8 @9
+DJN $-13 $5
+MOV $5 $2007
+MOV $7 $2007
+SPL $2005 
+JMP $-17 
+DAT $150 
+JMP $0 
+DAT $0 
+DAT $-27 
+DAT $327 

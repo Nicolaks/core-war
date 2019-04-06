@@ -1,0 +1,8 @@
+JMP $2 
+DAT $-4 
+SUB $4 $-6
+MOV $-2 $-6
+SUB $100000 $3
+SPL @2 
+JMP $-4 
+DAT $-50 

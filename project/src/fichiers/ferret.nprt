@@ -1,0 +1,7 @@
+JMP 2
+DAT -15
+MOV -1 @-1
+JMP 2
+DAT 15
+MOV -1 @-1
+JMP -6

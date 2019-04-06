@@ -1,0 +1,8 @@
+SPL $4 
+SPL $2 
+JMP $5 
+JMP $5 
+SPL $2 
+JMP $4 
+JMP $4 
+MOV $0 $1

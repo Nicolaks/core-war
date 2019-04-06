@@ -1,0 +1,8 @@
+JMP $2 
+DAT $-7 
+MOV #12 $-1
+MOV @-2 <-5
+SPL @3 
+ADD #653 $2
+JMP $-6 
+DAT $833 

@@ -1,0 +1,7 @@
+JMP 2
+DAT -4
+MOV -1 @-1
+MOV -2 @-2
+MOV 0 @-3
+SUB 1 -4
+JMP -4

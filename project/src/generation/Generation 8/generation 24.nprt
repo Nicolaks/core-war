@@ -1,0 +1,11 @@
+JMP $1 
+SPL $-1 
+MOV $-3 $-4
+MOV $-4 $-6
+MOV $-5 $-8
+MOV $-6 $-10
+JMP $2 
+DAT $-7 
+ADD $-7 $-1
+SPL @-2 
+MOV $0 $1

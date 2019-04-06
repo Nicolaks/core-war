@@ -1,0 +1,18 @@
+JMP $5 
+DAT $3 
+DAT $3 
+DAT $3 
+DAT $3 
+MOV $6 @6
+MOV $6 @6
+ADD $3025 $4
+ADD $2421 $4
+SPL $-4 
+JMP $-5 
+DAT $10 
+DAT $11 
+DAT $3 
+DAT $3 
+DAT $3 
+DAT $3 
+JMP $0 

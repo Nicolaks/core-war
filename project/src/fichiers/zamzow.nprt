@@ -1,0 +1,31 @@
+jmp 22
+jmp 7
+dat 0
+dat 0
+dat 0
+dat 0
+dat 0
+dat 0
+jmz 0 @21
+cmp 21 @20
+jmp 3
+mov #8166 18
+jmp -4
+add #6 16
+mov 14 @15
+mov 13 @14
+mov 12 @13
+mov 11 @12
+mov 10 @11
+mov 9 @10
+mov 8 @9
+djn -13 5
+mov 5 2007
+mov 7 2007
+spl 2005
+jmp -17
+dat 150
+jmp 0
+dat 0
+dat -27
+dat 327

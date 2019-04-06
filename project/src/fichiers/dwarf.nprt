@@ -1,0 +1,5 @@
+JMP 2
+DAT -1
+ADD #5 -1
+MOV #0 @-2
+JMP -2

@@ -1,0 +1,17 @@
+\babel@toc {french}{}
+\contentsline {section}{\numberline {1}Introduction}{2}{section.1}
+\contentsline {section}{\numberline {2}Objectifs du projet}{3}{section.2}
+\contentsline {subsection}{\numberline {2.1}Le CoreWar}{3}{subsection.2.1}
+\contentsline {subsection}{\numberline {2.2}Notre impl\IeC {\'e}mentation : Le NPRT}{4}{subsection.2.2}
+\contentsline {section}{\numberline {3}Organisation du projet}{5}{section.3}
+\contentsline {subsection}{\numberline {3.1}R\IeC {\'e}partition du travail}{5}{subsection.3.1}
+\contentsline {subsection}{\numberline {3.2}Architecture}{6}{subsection.3.2}
+\contentsline {section}{\numberline {4}\IeC {\'E}l\IeC {\'e}ments techniques}{9}{section.4}
+\contentsline {subsection}{\numberline {4.1}La m\IeC {\'e}moire}{9}{subsection.4.1}
+\contentsline {subsection}{\numberline {4.2}La gestion de fichiers}{11}{subsection.4.2}
+\contentsline {subsection}{\numberline {4.3}L'algorithme g\IeC {\'e}n\IeC {\'e}tique}{12}{subsection.4.3}
+\contentsline {section}{\numberline {5}Exp\IeC {\'e}rimentations et Usages}{16}{section.5}
+\contentsline {subsection}{\numberline {5.1}La g\IeC {\'e}n\IeC {\'e}ration du warrior}{16}{subsection.5.1}
+\contentsline {subsection}{\numberline {5.2}Utilisation du programme}{17}{subsection.5.2}
+\contentsline {section}{\numberline {6}Conclusion}{18}{section.6}
+\contentsline {section}{\numberline {7}R\IeC {\'e}f\IeC {\'e}rences}{19}{section.7}

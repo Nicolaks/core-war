@@ -1,0 +1,5 @@
+ADD -3 -1
+MOV -2 @-2
+ADD 5 3
+MOV 2 @2
+JMP -4

@@ -1,0 +1,5 @@
+Vous devez rendre le rapport de votre projet sur la forge dans le même projet que celui de TPA le vendredi 5 avril à 12h. Les slides de la présentation doivent être rendus au plus tard, la veille de votre présentation.
+
+Dans votre dépôt de projet, à la racine, un dossier "expression" doit contenir le rapport en pdf (dès le 5 avril à 12h), et les slides en pdf (dès la veille de votre soutenance). Dans ce dossier, doivent aussi apparaître deux sous-dossiers : "rapport" contenant les sources LaTeX de votre rapport (dès le 5 avril à 12h) et "presentation" contenant les sources LaTeX de votre présentation (dès la veille de votre soutenance).
+
+N'oubliez pas de mettre votre enseignant correcteur en tant que "rapporteur" de votre projet. Attention, votre enseignant correcteur n'est pas forcément votre chargé de TP, il s'agit du membre d'expression-communication de votre jury de soutenance.

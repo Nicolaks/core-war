@@ -1,0 +1,9 @@
+JMP $4 
+ADD $1 $-1
+DAT $-3 
+SPL $3 
+SPL $-3 
+SPL $-3 
+MOV $0 $3
+MOV $0 $3
+MOV $0 $3

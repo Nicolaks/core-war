@@ -1,0 +1,8 @@
+MOV 0 @4
+MOV 0 @3
+SUB 1 2
+JMP 2
+DAT -4
+SUB 18 -1
+SPL @-2
+JMP -7

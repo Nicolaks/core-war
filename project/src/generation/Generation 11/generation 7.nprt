@@ -1,0 +1,12 @@
+JMP $8 
+DAT $5 
+DAT $5 
+DAT $5 
+DAT $5 
+DAT $5 
+DAT $4 
+MOV $0 $1
+ADD $1550 $-3
+DAT $5 
+DAT $5 
+DAT $5 
