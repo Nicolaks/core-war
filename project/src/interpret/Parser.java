@@ -21,7 +21,7 @@ public class Parser{
      * @return         Une liste de String qui sera envoyé dans les autres méthodes.
      */
     public List<String> lire(String fichier){
-        File f = new File("interpret/"+fichier);
+        File f = new File(fichier);
         Path lectru = Paths.get(f.getAbsolutePath());
         Charset charset = Charset.forName("ISO-8859-1");
         List<String> lines = null;

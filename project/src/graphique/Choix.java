@@ -95,15 +95,14 @@ public class Choix extends JFrame implements ActionListener{
 	public void actionPerformed(ActionEvent e) {
 		//action du bouton
 		if(e.getSource()==this.button2){
-			if(warrior.size()>=2){	
-				System.out.println(this.warrior);
+			if(warrior.size()>=2){
 				this.pret = true;
 			}
 		//mise en place et utilisation du JFileChooser
 		}else{
-			JFileChooser fc = new JFileChooser("fichiers");
-			fc.showOpenDialog(null);
 			try{
+				JFileChooser fc = new JFileChooser("src/fichiers");
+				fc.showOpenDialog(null);
 				if(fc.getSelectedFile().getName().contains(".nprt")){
 				JLabel ac = new JLabel(fc.getSelectedFile().getName()+" ");
 				p.add(ac);

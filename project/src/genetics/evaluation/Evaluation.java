@@ -19,7 +19,7 @@ public class Evaluation {
    * @param secondes le temps maximal d'un combat
    */
   public Evaluation(int secondes){
-     Popinit pop = new Popinit("fichiers");
+     Popinit pop = new Popinit("src/fichiers");
      listPopulation = pop.parserToInstruction();
      memoire = new Mars(90, false);
      listJoueur = instructionToPlayer();

@@ -7,10 +7,9 @@
 
 Pour lancer cette application :
 	
-	Étape 1 - Après avoir clone le projet, lancer un terminal et se rendre dans le dossier src.
-	Étape 2 - Taper dans ce terminal la commande : mkdir build
-	Étape 3 - Éxécuter la commande : javac -d build */*.java *.java
-	Étape 4 - Éxécuter la commande : java -cp build/ Demo <Nombre de Warriors> <Nombre de Warriors à prendre sans mutations> 
+	Étape 1 - Taper dans ce terminal la commande : mkdir build
+	Étape 2 - Éxécuter la commande : javac -d build src/*/*.java src/*.java src/genetics/*/*.java src/genetics/*.java
+	Étape 3 - Éxécuter la commande : java -cp build/ Demo <Nombre de Warriors> <Nombre de Warriors à prendre sans mutations> 
 	<Nombre de secondes pour un match> <Nombre de combats par Warriors>
 
 	OU 

@@ -22,10 +22,8 @@ public class Player{
 	 * @param X son symbol
 	 */
 	public Player(String fichier,String nom,String X){
-
-		String aConvertir = "../fichiers/"+fichier;
 		ArrayList<String> intruct = new ArrayList<String>();
-        intruct.add(aConvertir);
+        intruct.add("src/fichiers/"+fichier);
         inter = new Interpreteur(intruct);
 
 		this.nom = fichier;

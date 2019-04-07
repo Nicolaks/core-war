@@ -1,0 +1,10 @@
+SPL $-80 
+SPL $-60 
+SPL $20 
+SPL $60 
+SPL $-4 
+SUB $50 $-5
+SUB $50 $-5
+ADD $50 $-5
+ADD $50 $-5
+JMP $-4 

@@ -1,0 +1,15 @@
+MOV $9 $10
+SUB $1 $1
+MOV $7 $9
+SPL $-3 
+JMZ $-4 $-2
+MOV #0 $3
+ADD #-16 $4
+JMP $-6 
+SPL $0 
+JMP $-1 
+DAT $-64 
+DAT $842 
+DAT $842 
+DAT $842 
+DAT $842 

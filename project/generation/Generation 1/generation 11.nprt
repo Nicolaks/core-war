@@ -1,0 +1,15 @@
+JMP $3 
+DAT $-300 
+DAT $-10 
+SUB $1 $-2
+SUB $1 $-2
+CMP #4 #4
+JMP $-3 
+ADD $1 $-2
+MOV $-7 @-7
+MOV $-7 @-7
+CMP #4 #4
+JMP $-3 
+ADD $1 $-2
+SPL $-10 
+SPL $-6 

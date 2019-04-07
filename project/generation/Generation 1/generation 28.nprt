@@ -1,0 +1,16 @@
+JMP $6 
+DAT $14 
+DAT $8 
+JMP $1 
+JMP $1 
+JMP $-2 
+MOV $-3 @-5
+MOV $-3 @-6
+MOV $-3 @-7
+MOV $-7 @-8
+MOV $-8 @-9
+MOV $-9 @-10
+SPL @-10 
+ADD $70 $-12
+ADD $70 $-12
+JMP $-9 

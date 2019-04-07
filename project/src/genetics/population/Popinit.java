@@ -24,7 +24,7 @@ public class Popinit{
         ArrayList<String> list = new ArrayList<>();
         if (liste != null) {
             for (int i = 0; i < liste.length; i++) {
-                list.add("../fichiers/"+liste[i]);
+                list.add("src/fichiers/"+liste[i]);
             }
         } else {
             System.err.println("Nom de repertoire invalide");
